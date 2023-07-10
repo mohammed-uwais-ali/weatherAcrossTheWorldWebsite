@@ -7,13 +7,16 @@ Interact with the website here below:
 
 https://mohammed-uwais-ali.github.io/weatherAcrossTheWorldWebsite/
 
-<img width="1440" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/393e7537-5cb1-47c7-905d-8098dafd3238">
+<img width="1440" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/37d4f554-24a4-4e90-b85d-6257b1fa14ca">
+
 
 **View of Weather**
 
-<img width="392" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/649092f7-4136-4341-b22d-184f8cb3f47a">
+<img width="1440" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/198778fe-b562-46b4-ac7d-cf7ad27527a4">
 
-<img width="381" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/34ec2996-aaf3-4278-9593-4228fa45450b">
+Invalid input for city:
+<img width="1440" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/17d43671-aa84-41b2-9330-56a53586310e">
+
 
 
 
