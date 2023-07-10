@@ -17,18 +17,28 @@ body{
 
 .title-for-Website{
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     top: 130px;
     background-color: white;
     position:absolute;
+    left: 40px;
 }
 
 .closing-Statement{
     text-align: center;
-    bottom: 120px;
+    bottom: 85px;
     position:absolute;
+    left: 40px;
+    top:250px;
 }
 
+.personal-touch{
+    text-align: center;
+    bottom: 85px;
+    position:absolute;
+    left: 40px;
+    bottom:30px;
+}
 
 .container{
     position: relative;
