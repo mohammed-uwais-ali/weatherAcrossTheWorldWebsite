@@ -7,7 +7,7 @@ Interact with the website here below:
 
 https://mohammed-uwais-ali.github.io/weatherAcrossTheWorldWebsite/
 
-<img width="1440" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/37d4f554-24a4-4e90-b85d-6257b1fa14ca">
+<img width="1439" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/971bb5ad-ea4c-47c2-8904-7671dcb59183">
 
 
 **View of Weather**
