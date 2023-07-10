@@ -11,9 +11,10 @@ View of the website: https://mohammed-uwais-ali.github.io/weatherAcrossTheWorldW
 
 **View of Weather**
 
-<img width="394" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/c91c11df-4a05-4318-b180-1405f08aa12e">
+<img width="392" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/649092f7-4136-4341-b22d-184f8cb3f47a">
 
-<img width="266" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/4b894a80-8590-45f1-86f1-a69035388776">
+<img width="381" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/34ec2996-aaf3-4278-9593-4228fa45450b">
+
 
 
 
