@@ -5,6 +5,8 @@ Project built by Javascript, HTML, CSS, OpenWeather API, JSON. Validations + err
 
 Interact with the website here below: 
 
+https://mohammed-uwais-ali.github.io/weatherAcrossTheWorldWebsite/
+
 <img width="1440" alt="image" src="https://github.com/mohammed-uwais-ali/weatherAcrossTheWorldWebsite/assets/96762901/393e7537-5cb1-47c7-905d-8098dafd3238">
 
 **View of Weather**
