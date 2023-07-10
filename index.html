@@ -4,9 +4,53 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Aldrich&family=Oswald:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Find what the weather is around the world</title>
 </head>
 <body>
+
+    <div class="container">
+        <div class="search-box"></div>
+        <i class="fa-solid fa-location-dot"></i>
+        <input type="text" placeholder="Enter your location">
+        <button class="fa-solid fa-magnifying-glass"></button>
+    </div>
+
+    <div class="not-found">
+        <img src="https://cdn3d.iconscout.com/3d/premium/thumb/404-not-found-over-globe-6587680-5438652.png?f=webp" alt="404 error picture">
+        <p> Invalid location. Please input a valid location again</p>
+    </div>
     
+    <div class="weather-box">
+        <img src="" alt="" class="">
+        <p class="temperature"></p>
+        <p class="description"></p>
+    </div>
+
+    <div class="weather-details">
+        <div class="humidity">
+            <i class="fa-solid fa-water">
+            <div class="text">
+                <span></span>
+                <p>Humidity</p>
+            </div>    
+            </i>
+        </div>
+        <div class="wind">
+            <i class="fa-solid fa-wind">
+            <div class="text">
+                <span></span>
+                <p>Wind Speed</p>
+            </div>    
+            </i>
+        </div>
+    </div>
+
+
+    <script src="https://kit.fontawesome.com/7c8801c017.js" crossorigin="anonymous"></script>
+    <script src="index.js"></script>
 </body>
 </html>
